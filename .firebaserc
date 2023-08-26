@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "netflix-61c6d",
+    "staging": "netflix-61c6d"
+  },
+  "targets": {},
+  "etags": {}
+}
